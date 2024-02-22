@@ -1,1 +1,1 @@
-# odoo-custom-module
+Learning how to create custom module for Odoo.
